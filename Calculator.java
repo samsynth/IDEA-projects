@@ -1,3 +1,5 @@
+/* this code is to calculate operation between 2 numbersi */
+
 import java.util.Scanner;
 public class Calculator {
    public static void main(String[] args) {
